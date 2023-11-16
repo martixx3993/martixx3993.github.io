@@ -403,7 +403,7 @@ input, textarea{
         position: absolute;
         left: 0;
         top: 0;
-        display: nne;
+        display: none;
     }
 
     .navbar .fa-solid{
